@@ -16,4 +16,4 @@
 
 ### Acerca de XilentLocker
 
-XilentLocker
+XilentLocker es un ransomware programado en lenguaje Python puro, es parte de la familia de <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a> 
