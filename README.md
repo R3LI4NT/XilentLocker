@@ -63,8 +63,4 @@ Correo de contacto:
 
 <h1 align="center"></h1>
 
-<h4 align="center">PURGE continúa mejorando...</h4>
-
-<h1 align="center"></h1>
-
 #### Developer: ~R3LI4NT~
