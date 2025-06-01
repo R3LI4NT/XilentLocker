@@ -16,4 +16,22 @@
 
 ### Acerca de XilentLocker
 
-XilentLocker es un ransomware programado en lenguaje Python puro, es parte de la familia de <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a> 
+XilentLocker es un ransomware programado en lenguaje Python puro, es parte de la familia de <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a>. 
+
+Este tipo de software malicioso se distingue por bloquear el acceso a diversos recursos del sistema operativo infectado y, posteriormente, exigir un rescate a cambio de restaurar el acceso a dichos recursos. 
+
+<h1 align="center"></h1>
+
+### Características de XilentLocker `1.0`:
+
+- [x] **Encriptación:** Utiliza el algoritmo AES-256. Los archivos se cifran parcialmente, modificando únicamente 1 MB, lo cual es suficiente para volverlos corruptos. Esta técnica permite una encriptación mucho más rápida.
+
+- [x] **Extensiones:** ['.pdf', '.txt', '.png', '.ico', '.csv', '.docx', '.doc', '.ppt', '.jpg', '.jpeg', '.xls', '.mp3', '.mp4', '.psd', '.html', '.mov', '.rar', '.db', '.sqlite', '.sql','.mdb', '.accdb', '.myd', '.frm', '.dmp', '.ndf', '.mdf', '.py', '.php', '.perl', '.rb', '.c', '.cs', '.js', '.css', '.dat', '.asc', '.csr', '.rtf', '.uot', '.crt', '.dot', '.pot', '.ots', '.std', '.xlt', '.jar', '.pas', '.cpp', '.ms11', '.sldm', '.sldx', '.ibd', '.bat', '.lay', '.asm', '.vbs', '.raw', '.cmd', '.zip', '.tar', '.vmdk', '.jsp', '.avi', '.file', '.mkv', '.mpg', '.aes', '.hash', '.class', '.fla']
+
+- [x] **Builder**: Cuenta con un builder para empaquetar el source code a un .EXE de forma automatizada.
+
+- [x] **Decrypter:** Por cada usuario, generá una llave para desencriptar la información.
+
+<h1 align="center"></h1>
+
+#### Mensaje de Rescate 
