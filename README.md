@@ -40,3 +40,11 @@ Este tipo de software malicioso se distingue por bloquear el acceso a diversos r
 
 ![2](https://github.com/user-attachments/assets/911b5e0a-5fc5-460e-8ac3-bfc4625c3e76)
 
+<h1 align="center"></h1>
+
+#### Encriptación ~ Desencriptación
+
+![3](https://github.com/user-attachments/assets/8d5fa73c-ff3c-4e3b-ab51-25e5b6a21d06)
+
+![4](https://github.com/user-attachments/assets/9a5ff36a-0a95-4ada-92b4-f1cc618757fd)
+
