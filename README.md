@@ -48,3 +48,23 @@ Este tipo de software malicioso se distingue por bloquear el acceso a diversos r
 
 ![4](https://github.com/user-attachments/assets/9a5ff36a-0a95-4ada-92b4-f1cc618757fd)
 
+</br>
+
+<h1 align="center"></h1>
+
+Correo de contacto:
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<h1 align="center"></h1>
+
+> [!CAUTION]
+> Al utilizar este software, usted acepta los términos y condiciones establecidos. En consecuencia, cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de Python como herramienta para el desarrollo de malware en entornos controlados. 
+
+<h1 align="center"></h1>
+
+<h4 align="center">PURGE continúa mejorando...</h4>
+
+<h1 align="center"></h1>
+
+#### Developer: ~R3LI4NT~
