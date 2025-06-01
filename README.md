@@ -38,4 +38,5 @@ Este tipo de software malicioso se distingue por bloquear el acceso a diversos r
 
 ![1](https://github.com/user-attachments/assets/bcc81705-0132-4547-9b1d-1bc0d8194cbd)
 
-![2](https://github.com/user-attachments/assets/ed59a641-7c69-4e9c-a904-cac4eb95648b)
+![2](https://github.com/user-attachments/assets/911b5e0a-5fc5-460e-8ac3-bfc4625c3e76)
+
