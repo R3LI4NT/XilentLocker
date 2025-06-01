@@ -14,6 +14,6 @@
 
 <h1 align="center"></h1>
 
-### Acerca de XilentLOCKER
+### Acerca de XilentLocker
 
-XilentL
+XilentLocker
