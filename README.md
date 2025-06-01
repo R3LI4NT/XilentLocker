@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b094d670-a5e9-4eb8-a0f5-e4398dccea19" alt="XilentLocker" Logo" />
+  <img src="https://github.com/user-attachments/assets/36d32696-9c65-42f6-af6b-64faf1a7a556" alt="XilentLocker" Logo" />
 </p>
 
 <p align="center">
@@ -12,5 +12,8 @@
   </a>
 </p>
 
-
 <h1 align="center"></h1>
+
+### Acerca de XilentLOCKER
+
+XilentL
