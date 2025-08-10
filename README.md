@@ -18,7 +18,7 @@
 
 XilentLocker es un ransomware programado en lenguaje Python puro. Este tipo de software malicioso se distingue por bloquear el acceso a diversos recursos del sistema operativo infectado y, posteriormente, exigir un rescate a cambio de restaurar el acceso a dichos recursos. 
 
-Es parte de la familia de <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a> y <a href="https://github.com/R3LI4NT/XilentDoor">XilentDoor</a>. 
+Es parte de la familia de <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a>, <a href="https://github.com/R3LI4NT/XilentDoor">XilentDoor</a> y <a href="https://github.com/R3LI4NT/XilentLogger">XilentLogger</a> 
 
 <h1 align="center"></h1>
 
