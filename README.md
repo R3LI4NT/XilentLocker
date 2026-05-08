@@ -58,9 +58,4 @@ Correo de contacto:
 
 <h1 align="center"></h1>
 
-> [!CAUTION]
-> Al utilizar este software, usted acepta los términos y condiciones establecidos. En consecuencia, cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de Python como lenguaje para el desarrollo de malware en entornos controlados. 
-
-<h1 align="center"></h1>
-
 #### Developer: ~R3LI4NT~
